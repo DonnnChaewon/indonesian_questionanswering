@@ -1,0 +1,30 @@
+[project]
+name = "sft"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "bs4>=0.0.2",
+    "datasets>=3.6.0",
+    "flask>=3.1.1",
+    "groq>=0.30.0",
+    "ipykernel>=6.29.5",
+    "nltk>=3.9.1",
+    "ollama>=0.5.1",
+    "pandas>=2.3.1",
+    "protobuf>=6.31.1",
+    "scikit-learn>=1.7.0",
+    "selenium>=4.34.2",
+    "sentence-transformers>=2.2.2",
+    "sentencepiece>=0.2.0",
+    "spacy>=3.8.7",
+    "stopwords>=1.0.1",
+    "torch>=2.7.1",
+    "torchaudio>=2.7.1",
+    "torchvision>=0.22.1",
+    "tqdm>=4.67.1",
+    "transformers==4.38.2",
+    "undetected-chromedriver>=3.5.5",
+    "webdriver-manager>=4.0.2",
+]
